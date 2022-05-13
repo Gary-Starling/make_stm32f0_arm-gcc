@@ -1,0 +1,10 @@
+{
+    "cortex-debug.armToolchainPath": "c:\\Users\\skvor\\AppData\\Roaming\\Code\\User\\globalStorage\\bmd.stm32-for-vscode\\@xpack-dev-tools\\arm-none-eabi-gcc\\10.3.1-2.3.1\\.content\\bin",
+    "cortex-debug.openocdPath": "C:\\USERS\\SKVOR\\APPDATA\\ROAMING\\CODE\\USER\\GLOBALSTORAGE\\BMD.STM32-FOR-VSCODE\\@XPACK-DEV-TOOLS\\OPENOCD\\0.11.0-2.1\\.CONTENT\\BIN\\OPENOCD.EXE",
+    "cortex-debug.stlinkPath.windows": "C:/ST/STM32CubeIDE_1.9.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32_2.0.200.202202231230/tools/bin/ST-LINK_gdbserver.exe",
+    "cortex-debug.stm32cubeprogrammer": null,
+    "files.associations": {
+        "stdint.h": "c",
+        "stm32f0xx.h": "c"
+    }   
+}
